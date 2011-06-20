@@ -1,0 +1,5 @@
+name: SuperheatedIron
+main: me.br_.minecraft.bukkit.superheatediron.SIMain
+version: 0.1
+author: BR_
+commands:
